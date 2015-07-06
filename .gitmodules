@@ -1,0 +1,3 @@
+[submodule "editors/neovim"]
+	path = editors/neovim
+	url = https://github.com/shithead/freebsd-port-editors_neovim.git
