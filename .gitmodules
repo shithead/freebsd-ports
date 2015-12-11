@@ -1,3 +1,9 @@
 [submodule "editors/neovim"]
 	path = editors/neovim
 	url = https://github.com/shithead/freebsd-port-editors_neovim.git
+[submodule "www/p5-Mojolicious-Plugin-Bootstrap3"]
+	path = www/p5-Mojolicious-Plugin-Bootstrap3
+	url = https://github.com/shithead/freesbd-port-www_p5-Mojolicious-Plugin-Bootstrap3.git
+[submodule "www/p5-Mojolicious-Plugin-AssetPack"]
+	path = www/p5-Mojolicious-Plugin-AssetPack
+	url = https://github.com/shithead/freesbd-port-www_p5-Mojolicious-Plugin-AssetPack.git
